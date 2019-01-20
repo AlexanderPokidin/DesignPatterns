@@ -1,4 +1,4 @@
-package com.pokidin.a.simplepatern;
+package com.pokidin.a.strategy;
 
 public interface FlyBehavior {
     void fly();
