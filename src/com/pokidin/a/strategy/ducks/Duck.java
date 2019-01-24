@@ -1,4 +1,7 @@
-package com.pokidin.a.strategy;
+package com.pokidin.a.strategy.ducks;
+
+import com.pokidin.a.strategy.fly.FlyBehavior;
+import com.pokidin.a.strategy.quack.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

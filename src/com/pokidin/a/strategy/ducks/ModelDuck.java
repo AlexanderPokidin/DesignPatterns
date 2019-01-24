@@ -1,4 +1,7 @@
-package com.pokidin.a.strategy;
+package com.pokidin.a.strategy.ducks;
+
+import com.pokidin.a.strategy.fly.FlyNoWay;
+import com.pokidin.a.strategy.quack.Quack;
 
 public class ModelDuck extends Duck {
 

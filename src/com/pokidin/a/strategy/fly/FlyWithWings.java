@@ -1,4 +1,4 @@
-package com.pokidin.a.strategy;
+package com.pokidin.a.strategy.fly;
 
 public class FlyWithWings implements FlyBehavior {
     @Override
