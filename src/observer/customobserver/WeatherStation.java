@@ -1,4 +1,4 @@
-package observer;
+package observer.customobserver;
 
 public class WeatherStation {
     public static void main(String[] args) {
