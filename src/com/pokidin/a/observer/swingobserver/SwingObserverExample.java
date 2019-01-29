@@ -1,4 +1,4 @@
-package observer.swingobserver;
+package com.pokidin.a.observer.swingobserver;
 
 import javax.swing.*;
 import java.awt.*;

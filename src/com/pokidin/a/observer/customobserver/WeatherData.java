@@ -1,4 +1,4 @@
-package observer.customobserver;
+package com.pokidin.a.observer.customobserver;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package observer.baseobserver;
+package com.pokidin.a.observer.baseobserver;
 
 import java.util.Observable;
 

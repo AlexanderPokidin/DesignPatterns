@@ -1,4 +1,4 @@
-package observer.baseobserver;
+package com.pokidin.a.observer.customobserver;
 
 public class WeatherStation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package observer.customobserver;
+package com.pokidin.a.observer.customobserver;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;

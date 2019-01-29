@@ -1,4 +1,4 @@
-package observer.customobserver;
+package com.pokidin.a.observer.customobserver;
 
 public interface Subject {
     void registerObserver(Observer observer);
